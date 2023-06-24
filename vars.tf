@@ -8,3 +8,4 @@ variable "ENV" {}
 variable "CIDR_BLOCK" {}
 variable "VPC_ID" {}
 variable "SUBNET_IDS" {}
+variable "FAMILY" {}
