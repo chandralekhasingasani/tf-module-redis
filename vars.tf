@@ -8,3 +8,5 @@ variable "CIDR_BLOCK" {}
 variable "VPC_ID" {}
 variable "SUBNET_IDS" {}
 variable "FAMILY" {}
+variable "DB_NAME" {}
+variable "PRIVATE_HOSTED_ZONE_ID" {}
